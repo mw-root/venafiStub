@@ -1,7 +1,6 @@
 {
   "status": { 
-    "items":
-    [
+    "items": [
       { "ticketNum": "INC8022", "ticketStatus": "Pending", "VenafiDN": "\\VED\\Policy\\Stuff" },
       { "ticketNum": "INC8023", "ticketStatus": "Pending", "VenafiDN": "\\VED\\Policy\\Stuff2" }
     ]
