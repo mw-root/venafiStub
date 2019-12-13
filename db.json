@@ -3,7 +3,7 @@
     "items": [
       { "ticketNum": "INC8022", "ticketStatus": "Pending", "VenafiDN": "\\VED\\Policy\\Stuff" },
       { "ticketNum": "INC8023", "ticketStatus": "Approved", "VenafiDN": "\\VED\\Policy\\Stuff2" },
-      { "ticketNum": "INC8024", "ticketStatus": "Rejected", "VenafiDN": "\\VED\\Policy\\Stuff2" }
+      { "ticketNum": "INC8024", "ticketStatus": "Rejected", "VenafiDN": "\\VED\\Policy\\Stuff2" },
       { "ticketNum": "INC8025", "ticketStatus": "garbled", "VenafiDN": "\\VED\\Policy\\Stuff2" }
     ]
   },
